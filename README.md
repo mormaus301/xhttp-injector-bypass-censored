@@ -10,9 +10,7 @@ https://github.com/throneproj/Throne/releases ("...windows64.zip" - версия
  
 Заходите в телеграм каналы где выкладывают бесплатные VPS/Прокси (примеры ниже), и копируете любые из них (они как правило выделены синем, либо в стиле цитаты).
 Пример каналов:
-https://t.me/oneclickvpnkeys
-
-https://t.me/OutlineReleasedKey
+https://t.me/oneclickvpnkeys<br>https://t.me/OutlineReleasedKey
 Искать аналогичные каналы можно во вкладке "Похожие каналы" в телеграме.
  
 Переходите обратно в Throne, клик на: > Profiles > Add profile from clipboard, потом выделяете все сервера (Ctrl + A), далее Profiles > "URL Test Selected", после тыкаете ПМК по любому добавленному из списка, с самым зеленым пингом (можно так же по пингу фильтровать нажав на "Test Result"), и нажимаете "Start", далее закрываете Throne (просто на крестик), ПКМ по ярлыку в трее "Remember last profile / Запомнить последний профиль", можно так же "Start with system / Запускать вместе с системой" (последнее по желанию). Когда какие-то сервера отваливаются, так же делаете "Ctrl + A + URL Test Selected", и подключаетесь к самому быстрому.
