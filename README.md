@@ -24,7 +24,11 @@ https://github.com/igareck/vpn-configs-for-russia
  
 Для наглядности, итоговый метод работы в Throne/nekoray выглядит примерно как-то так: https://ibb.co/HXXK0hZ
 
-Гайд по проксированию отеальных процессов от Aeza:<br>
+Работа Discord в Throne, но без галки системного прокси или TUN:<br>
+(требуется только изменить порт на 2080)<br>
+https://github.com/hdrover/discord-drover
+
+Гайд по проксированию отдельных процессов в Throne от Aeza:<br>
 https://wiki.aeza.net/ru/guides/throne/#проксирование-отдельных-процессов
  
 —Ньюансы?
