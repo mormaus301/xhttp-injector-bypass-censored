@@ -1,4 +1,4 @@
-# nekoray-bypass-censored-updated
+# bypass internet censored updated [RU]
 
 Актуальный способ обхода блокировок:
  
